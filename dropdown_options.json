@@ -1,0 +1,91 @@
+{
+  "1)   What is your Gender?": [
+    "Female",
+    "Male"
+  ],
+  "2)    What is your Age?": [
+    "17-25",
+    "26-34",
+    "35-40",
+    "40+"
+  ],
+  "3)    Education Level ": [
+    "PG(Master's, Ph.D.)",
+    "UG(Intermediate, BA, B.Sc.)"
+  ],
+  "4)   Field of Study": [
+    "Biology",
+    "Botany",
+    "Business Administration",
+    "Chemistry",
+    "Chemsitry",
+    "Commerce",
+    "Computer Science",
+    "Education",
+    "Islamic studies",
+    "Languages",
+    "Management",
+    "Math",
+    "Medicine or public health",
+    "Physics",
+    "Social Science"
+  ],
+  "5)  University Name": [
+    "Aryabhatta Knowledge University, Patna",
+    "B. R. Ambedkar Bihar University, Muzzafarpur",
+    "IGNOU, India",
+    "Jai Prakash University, Chhapra",
+    "Magadh University, Bodh Gaya",
+    "Northern Borders",
+    "Patna University, Patna",
+    "Veer Kunwar Singh University,Ara"
+  ],
+  "6)  How often do you use the Internet and Internet-related services? (E.g. Email, WhatsApp, News, YouTube  ": [
+    "Frequently throughout the day",
+    "Less frequently (once a week, once month)",
+    "Once or twice a day"
+  ],
+  "7) What are your Internet/ Digital devices skills level?": [
+    "Beginner/Basic (e.g. start computer and phone, go to specified web page. Use Word. Use social media)",
+    "Expert (e.g. computer Management, database administration, network Management)",
+    "Intermediate (e.g. able to install and run special software, make modifications to the settings of the computer, have a good understanding of hardware and software)"
+  ],
+  "13) How secure do you feel your digital devices (e.g. computers and phones) are? ": [
+    "Neutral",
+    "Not secure at all",
+    "Not sure (difficult to determine)",
+    "Somewhat insecure",
+    "Somewhat secure",
+    "Very secure"
+  ],
+  "15)  What digital devices do you have Internet security on (e.g. anti-virus)?": [
+    "Desktop",
+    "Desktop, Laptop",
+    "Desktop, Laptop, Smartphone",
+    "Desktop, Laptop, Smartphone,Tablet",
+    "Desktop, Laptop,Tablet",
+    "Desktop, Smartphone",
+    "I don't know",
+    "Laptop",
+    "Laptop, Smartphone",
+    "Laptop, Smartphone,Tablet",
+    "Laptop, Tablet",
+    "None of the above",
+    "Smartphone",
+    "Smartphone,Tablet",
+    "Tablet"
+  ],
+  "16)   If you use Internet security (e.g. anti-virus), is this kept up to date in terms of threat filters and signatures?": [
+    "I don't know",
+    "No",
+    "No, I think it is automatically updated",
+    "Yes, I believe it is automatically updated",
+    "Yes, I manually updated"
+  ],
+  "21)  What do you feel about the threat of cyber crimes in the future?": [
+    "Don't know",
+    "No significant change",
+    "The threat will vanish eventually",
+    "They will become a more serious issue in the future"
+  ]
+}
