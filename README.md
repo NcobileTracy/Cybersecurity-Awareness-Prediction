@@ -17,12 +17,12 @@ Project Objectives
 
 The main goals of this project are to:
 
-Develop a machine learning model that predicts cybersecurity awareness levels.
-Explore how selected personal and cybersecurity-related factors are linked to awareness levels.
-Create a web application that allows users to complete a short questionnaire.
-Display prediction results in a simple and understandable way.
-Provide general cybersecurity guidance based on the predicted awareness level.
-How the Application Works
+1.Develop a machine learning model that predicts cybersecurity awareness levels.
+2.Explore how selected personal and cybersecurity-related factors are linked to awareness levels.
+3.Create a web application that allows users to complete a short questionnaire.
+4.Display prediction results in a simple and understandable way.
+5.Provide general cybersecurity guidance based on the predicted awareness level.
+6.How the Application Works
 
 Users complete a questionnaire about their background and cybersecurity practices. The questions cover areas such as age, education, field of study, internet usage, digital skills, device protection, and awareness of cybercrime threats.
 
@@ -52,31 +52,31 @@ Input Features
 
 The final application uses the following 11 input features:
 
-Gender
-Age
-Education Level
-Field of Study
-University
-Frequency of Internet Use
-Digital Skills Level
-Perceived Security of Digital Devices
-Devices Protected by Internet Security
-Whether Internet Security is Kept Up to Date
-Perceived Future Cybercrime Threat
+1.Gender
+2.Age
+3.Education Level
+4.Field of Study
+5.University
+6.Frequency of Internet Use
+7.Digital Skills Level
+8.Perceived Security of Digital Devices
+9.Devices Protected by Internet Security
+10.Whether Internet Security is Kept Up to Date
+11.Perceived Future Cybercrime Threat
 
 These features were selected to keep the questionnaire practical while still supporting accurate cybersecurity awareness predictions.
 
 Technologies Used
-Python – application development and model integration.
-Pandas and NumPy – data processing and numerical analysis.
-Scikit-learn – machine learning model training and evaluation.
-Random Forest – cybersecurity awareness classification.
-Joblib – saving and loading the trained model.
-Streamlit – development of the web application.
-Plotly – interactive data visualisation.
-Git and GitHub – version control and project management.
-Streamlit Community Cloud – online application deployment.
-Project Workflow
+1.Python – application development and model integration.
+2.Pandas and NumPy – data processing and numerical analysis.
+3.Scikit-learn – machine learning model training and evaluation.
+4.Random Forest – cybersecurity awareness classification.
+5.Joblib – saving and loading the trained model.
+6.Streamlit – development of the web application.
+7.Plotly – interactive data visualisation.
+8.Git and GitHub – version control and project management.
+9.Streamlit Community Cloud – online application deployment.
+10.Project Workflow
 
 The project followed these key stages:
 
@@ -91,10 +91,15 @@ Test the prediction process and deploy the application online.
 
 Project Structure
 Cybersecurity-Awareness-Prediction/
+
 ├── app.py
+
 ├── cybersecurity_awareness_FINAL_FROZEN.joblib
+
 ├── dropdown_options.json
+
 ├── requirements.txt
+
 └── README.md
 
 File Description
